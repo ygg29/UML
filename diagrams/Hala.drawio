@@ -1,17 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T08:51:19.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="B2jZfCGTdanrCMwcHCiZ" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T10:43:08.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XxxCKqg-UJYjkPuKmlZc" version="16.1.0" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="1426" dy="731" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1415" dy="769" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="K_LD3TBMWtCk_dUfeqcV-1" value="l" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="359" y="978" width="879" height="111" as="geometry" />
-        </mxCell>
-        <mxCell id="K_LD3TBMWtCk_dUfeqcV-14" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="398" y="988" width="144" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="K_LD3TBMWtCk_dUfeqcV-13" value="二方库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="K_LD3TBMWtCk_dUfeqcV-14" vertex="1">
-          <mxGeometry width="144.00000000000003" height="85" as="geometry" />
         </mxCell>
         <mxCell id="K_LD3TBMWtCk_dUfeqcV-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="566" y="986.5" width="642" height="86.5" as="geometry" />
@@ -20,7 +14,7 @@
           <mxGeometry x="568" y="986.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K_LD3TBMWtCk_dUfeqcV-18" value="GAUI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1036" y="994" width="156" height="71" as="geometry" />
+          <mxGeometry x="1036" y="994" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K_LD3TBMWtCk_dUfeqcV-32" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="630" y="993" width="384" height="72" as="geometry" />
@@ -79,32 +73,17 @@
         <mxCell id="K_LD3TBMWtCk_dUfeqcV-49" value="GiftModule" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="848" y="707" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mt33CtYKFSwf1t00mVTQ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="359" y="1105" width="880" height="67" as="geometry" />
+        <mxCell id="EU10I_Jx_XXT4axmKY_v-6" value="开源库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="396" y="1038" width="138" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="EU10I_Jx_XXT4axmKY_v-6" value="开源库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="381" y="1121" width="138" height="41" as="geometry" />
+        <mxCell id="5S3hzTSLggSUSEHOukfQ-1" value="Extension" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="1035" width="148" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EU10I_Jx_XXT4axmKY_v-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="551" y="1115" width="602" height="49" as="geometry" />
+        <mxCell id="5S3hzTSLggSUSEHOukfQ-2" value="开源库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="396" y="986" width="138" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="EU10I_Jx_XXT4axmKY_v-10" value="GACommon&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="559" y="1129" width="60" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="EU10I_Jx_XXT4axmKY_v-11" value="Extension" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="639" y="1120.5" width="104" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="EU10I_Jx_XXT4axmKY_v-12" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;GACommon&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace&quot;&gt;通用基础库，包含扩展及一些工具方法、资源等&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="164" y="1132.25" width="176" height="48.5" as="geometry" />
-        </mxCell>
-        <mxCell id="EU10I_Jx_XXT4axmKY_v-13" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;GACore&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GAFoundation： App 通用工具下沉合并&lt;/div&gt;&lt;div&gt;GAUI：共用 UI&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="164" y="975.5" width="176" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="EU10I_Jx_XXT4axmKY_v-15" value="工具方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="773" y="1120.5" width="104" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="EU10I_Jx_XXT4axmKY_v-16" value="......" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="906" y="1120.5" width="104" height="36" as="geometry" />
+        <mxCell id="5S3hzTSLggSUSEHOukfQ-3" value="Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1018.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
