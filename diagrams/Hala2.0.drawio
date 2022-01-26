@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T10:20:28.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="O1y-cGZUbvwvDIjB16AG" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T13:31:58.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="JNd-8zMR5vqi8VKsVk-K" version="16.1.4" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1415" dy="769" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -11,16 +11,16 @@
           <mxGeometry x="368" y="830.5" width="624" height="129.5" as="geometry" />
         </mxCell>
         <mxCell id="K_LD3TBMWtCk_dUfeqcV-36" value="NetworkServer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="390" y="864" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="864" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K_LD3TBMWtCk_dUfeqcV-39" value="WebServer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="540" y="864" width="120" height="60" as="geometry" />
+          <mxGeometry x="493.5" y="865.25" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K_LD3TBMWtCk_dUfeqcV-40" value="统计与埋点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="680" y="864" width="120" height="60" as="geometry" />
+        <mxCell id="K_LD3TBMWtCk_dUfeqcV-40" value="Animation&lt;br&gt;Server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="600" y="865.25" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K_LD3TBMWtCk_dUfeqcV-41" value="数据持久化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="823" y="864" width="120" height="60" as="geometry" />
+        <mxCell id="K_LD3TBMWtCk_dUfeqcV-41" value="统计与埋点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="703.5" y="865.25" width="81" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K_LD3TBMWtCk_dUfeqcV-42" value="基础服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="280" y="879" width="60" height="30" as="geometry" />
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="Ix5k6d0BuqMqthUMCjz2-41" value="GPBModels" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#36393d;fillColor=#ffff88;" parent="1" vertex="1">
           <mxGeometry x="1024" y="832" width="192" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="b80qSHaLY5oCW-1uU5xf-2" value="数据持久化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="810" y="865.25" width="81" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
