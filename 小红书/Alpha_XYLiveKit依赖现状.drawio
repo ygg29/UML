@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T08:01:58.512Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xvVdPbLKJlPH572Fyz8t" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T08:03:35.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Xr4LR1PIZO_J98WyP9yR" version="22.1.20" type="github">
   <diagram name="第 1 页" id="BjN0HSsCt5Mu86GL2Iaq">
     <mxGraphModel dx="1059" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="tBpjEUCy_msSDKtW_xWb-47" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tBpjEUCy_msSDKtW_xWb-49">
           <mxGeometry x="180" y="179" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tBpjEUCy_msSDKtW_xWb-50" value="XYLiveKit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="328" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
